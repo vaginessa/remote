@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Remote</string>
+    <string name="send">Send</string>
+    <string name="get">Get</string>
+    <string name="title_activity_start">Remote</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="drawer_title">Remote Control</string>
+    <string name="email">brian.chau@outlook.com</string>
+    <string name="description">No description</string>
+
+    <string name="all_brands">All Brands</string>
+    <string name="favorites">Favorites</string>
+    <string name="rooms">Rooms</string>
+    <string name="about">About</string>
+    <string name="source_code">Source Code</string>
+    <string name="share">Share</string>
+
+    <string name="keypad_1">1</string>
+    <string name="keypad_2">2</string>
+    <string name="keypad_3">3</string>
+    <string name="keypad_4">4</string>
+    <string name="keypad_5">5</string>
+    <string name="keypad_6">6</string>
+    <string name="keypad_7">7</string>
+    <string name="keypad_8">8</string>
+    <string name="keypad_9">9</string>
+    <string name="keypad_pound">#</string>
+    <string name="keypad_0">0</string>
+    <string name="keypad_enter">Enter</string>
+    <string name="ch_up">Ch +</string>
+    <string name="ch_down">Ch -</string>
+    <string name="vol_up">Vol +</string>
+    <string name="vol_down">Vol -</string>
+    <string name="power">Power</string>
+    <string name="input">Input</string>
+    <string name="title_activity_bookmarked">Bookmarked</string>
+</resources>
